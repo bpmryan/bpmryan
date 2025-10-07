@@ -1,11 +1,14 @@
 ## Hi there 👋
 My name is Bryan Dinh. 
-- I study Computer Science at Oklahoma City University.
+- I study Computer Science at [Oklahoma City University](https://www.okcu.edu/programs/computer-science).
 
 - The current languages that I know or am currently studying are Java, HTML, and CSS.
 
 - I plan to study more in the future, including Python, JavaScript, and SQL. 
 
+# Current Projects
+- jeopardyProject
+  - Jeopardy template app that allows users to personally add their questions, answers, and personalize it  
 <!--
 **bpmryan/bpmryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
