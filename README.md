@@ -1,4 +1,10 @@
 ## Hi there 👋
+My name is Bryan Dinh. 
+- I study Computer Science at Oklahoma City University.
+
+- The current languages that I know or am currently studying are Java, HTML, and CSS.
+
+- I plan to study more in the future, including Python, JavaScript, and SQL. 
 
 <!--
 **bpmryan/bpmryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
