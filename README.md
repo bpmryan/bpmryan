@@ -6,7 +6,7 @@ My name is Bryan Dinh.
 
 - I plan to study more in the future, including Python, JavaScript, and SQL. 
 
-# Current Projects
+## Current Projects
 - jeopardyProject
   - Jeopardy template app that allows users to personally add their questions, answers, and personalize it  
 <!--
