@@ -2,9 +2,9 @@
 My name is Bryan Dinh. 
 - I study Computer Science at [Oklahoma City University](https://www.okcu.edu/programs/computer-science).
 
-- The current languages that I know or am currently studying are Java, HTML, and CSS.
+- The current languages that I know or am currently studying are Java, HTML, CSS, JavaScript, and SQL.
 
-- I plan to study more in the future, including Python, JavaScript, and SQL.
+- I plan to study more in the future, including Python and C.
 
 - In my spare time, I practice piano or watch anime. 
 
