@@ -4,7 +4,7 @@ My name is Bryan Dinh.
 
 - The current languages that I know or am currently studying are Java, HTML, CSS, JavaScript, and SQL.
 
-- I plan to study more in the future, including Python and C.
+  - I plan to study more in the future, including Python and C.
 
 - In my spare time, I mess around with music or watch anime. 
 
