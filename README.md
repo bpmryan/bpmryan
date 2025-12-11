@@ -11,7 +11,8 @@ My name is Bryan Dinh.
 ## Current Project(s)
 - jeopardyProject
   - Jeopardy template app that allows users to personally add their questions, answers, and personalize it
-  - Current language(s): Java (plan on using SQL)
+  - Current language(s): HTML, CSS, JavaScript, Java, and SQL
+- Personal Website
 <!--
 **bpmryan/bpmryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
