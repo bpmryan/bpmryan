@@ -6,7 +6,7 @@ My name is Bryan Dinh.
 
 - I plan to study more in the future, including Python and C.
 
-- In my spare time, I practice piano or watch anime. 
+- In my spare time, I mess around with music or watch anime. 
 
 ## Current Project(s)
 - jeopardyProject
