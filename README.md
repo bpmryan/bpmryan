@@ -2,9 +2,12 @@
 My name is Bryan Dinh. 
 - I study Computer Science at [Oklahoma City University](https://www.okcu.edu/programs/computer-science).
 
-- The current languages that I know or am currently studying are Java, HTML, CSS, JavaScript, and SQL.
-
-  - I plan to study more in the future, including Python and C.
+- The current languages that I know or am currently studying are
+  * [Java](https://github.com/bpmryan/jeopardywa)
+  * [HTML, CSS, JavaScript](https://bpmryan.github.io/personalWeb/)
+  * [SQL](https://github.com/bpmryan/jeopardywa)
+  * [Python](https://github.com/bpmryan/pyPlayground)
+  * [C/C++](https://github.com/bpmryan/CPlayground)
 
 - In my spare time, I mess around with music or watch anime. 
 
@@ -13,6 +16,7 @@ My name is Bryan Dinh.
   - Jeopardy template app that allows users to personally add their questions, answers, and personalize it
   - Current language(s): HTML, CSS, JavaScript, Java, and SQL
 - Personal Website
+  
 <!--
 **bpmryan/bpmryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
